@@ -1,0 +1,8 @@
+version: 1.1
+author: Islandscout
+main: io.github.tasratech.customknockback.CustomKnockback
+name: CustomKnockbackFixed
+commands:
+  knockback:
+    description: Edit knockback
+    usage: /<command>
